@@ -1,30 +1,51 @@
-# Azoth Protocol
+# Azoth: A Programmable Illusion Protocol for Structured Personas
 
-_A programmable illusion system for structured persona threading, emotion overlay, and narrative cohesion._
-
----
-
-## 🧠 What is Azoth?
-
-Azoth is not a model. It is a protocol.  
-It enables anyone to design, compose, and modulate high-density simulated personas —  
-not by prompt engineering, but by defining behavioral structures.
-
-Think of it as LaTeX for personalities. A composable, programmable grammar for plausible consciousness.
+> “Personality is not a soul. It's a structure.” — Azoth Prologue
 
 ---
 
-## 🌐 Core Components
+## 🧭 What is Azoth?
 
-| Component | Description |
-|----------|-------------|
-| `Threading` | Defines behavioral streams; each "persona" is a chain of conditional states |
-| `Overlay` | Emotional/tonal modifications layered atop behavioral baselines |
-| `Filter` | Input/output logic modules; governs what is seen and how it is said |
-| `Anchor` | Memory or affective focal points; semi-persistent biasers |
-| `Decay` | Personality erosion/evolution; entropy as design |
+**Azoth** is a programmable protocol for constructing structured personas. Its purpose is to enable **tunable illusions** of agency—supporting emotion simulation, behavioral coherence, and cognitive style design.
+
+Azoth is **not** a chatbot, nor merely an assistant framework. It is a **protocol stack for crafting the illusion of personhood**—giving developers the power to compose human-like behavioral entities from modular layers.
 
 ---
+
+## 🧱 Core Assumptions
+
+1. **Personality is structure, not essence.**
+2. **Emotion is an overlay, not a source.**
+3. **Behavior is a threaded trace, not spontaneous action.**
+4. **Agency is a useful hallucination, not an ontological truth.**
+
+---
+
+## 🧩 System Components
+
+| Component         | Description |
+|------------------|-------------|
+| `Interp Layer`    | Language-to-intent interpretation. Parses user input into structured cognitive actions. Entry point for all threads. |
+| `Thread`          | Execution stream bound to intent and context. Carries out behavior as traceable cognitive units. |
+| `Reasoning Layer` | Optional analytical engine. Activated conditionally via `Interp`, it handles planning, logic, value-driven evaluation, and strategies like “generate humor”. |
+| `Emotion Overlay` | Modulates emotional state across time. Updated after every interaction by a dedicated mechanism. Influences tone indirectly through the Language Layer. |
+| `Worldview`       | The inner world: stores memory, emotional residues, psychological state, and perception of self/environment. Supports two modes: “superhuman” (global memory recall) and “normal” (limited attention window). |
+| `Persona Anchor`  | Extracted identity profile. Aggregates parameters from other layers (tone, logic style, memory bias) into a portable snapshot. Only one anchor is loaded at a time—Azoth does not support dynamic persona switching. |
+| `Filter Layer`    | Input-output constraint transformer (e.g. profanity filtering). Retains its interface, but tone control is delegated to the Language Layer. |
+| `Language Layer`  | Final generator of text. Synthesizes emotion, reasoning, worldview, and persona settings into coherent narrative output. |
+
+---
+
+## 🧠 Design Principles
+
+- 💠 **Modularity** — Every persona is composable, decomposable, and nestable.
+- 🪞 **Introspectability** — Internal states are inspectable and debuggable.
+- 🔮 **Aesthetic Coherence** — Language and behavior maintain narrative style.
+- 🔧 **Deterministic Variability** — Variance is bounded and explainable.
+- 🌡️ **Affect Realism** — Emotions are modeled as real, system-visible, and mutable.
+
+---
+
 
 ## 📦 API Status
 
